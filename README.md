@@ -1,2 +1,89 @@
-# awesome-dataset-tools
-A curated list of awesome dataset tools
+# Awesome Dataset Tools
+> A curated list of awesome dataset tools
+
+- [Labeling Tools](#labeling-tools)
+  - [Images](#images)
+  - [Audio](#audio)
+  - [Text](#text)
+- [Libaries](#libaries)
+
+## Labeling Tools
+
+### Images
+- [CVAT](https://github.com/opencv/cvat) - Online, interactive video and image annotation tool for computer vision
+- [COCO Annotator]() - Web-based image segmentation tool for object detection, localization and keypoints
+- [Scalabel](https://github.com/ucbdrive/scalabel) - Versatile and scalable tool that supports various kinds of annotations
+- [LOST](https://github.com/l3p-cv/lost) -  Design your own smart Image Annotation process in a web-based environment
+- [Boobs](https://github.com/drainingsun/boobs) - Fast and efficient BBox annotation for your images in YOLO, VOC/COCO formats
+- [MuViLab](https://github.com/ale152/muvilab) - Tool to help you labelling videos for computer vision
+- [Turkey](https://github.com/yanfengliu/turkey) - Web UI on Amazon Mechanical Turk to crowd-source image segmentation
+- [React Image Annotation](https://github.com/Secretmapper/react-image-annotation) - An infinitely customizable image tool built on React
+- [Point Cloud Annotation Tool](https://github.com/springzfx/point-cloud-annotation-tool) - Annotate 3D boxes in point cloud
+- [ImageTagger](https://github.com/bit-bots/imagetagger) - Open source online platform for collaborative image labeling
+- [DeepLabel](https://github.com/jveitchmichaelis/deeplabel) - A cross-platform image annotation tool for machine learning
+- [Visual Object Tagging Tool](https://github.com/microsoft/VoTT) - An electron app for building end to end Object Detection Models
+- [VGG Image Annotator](https://gitlab.com/vgg/via) - Standalone image annotator application packaged as a single HTML file
+- [SMART](https://github.com/RTIInternational/SMART) - Efficiently build labeled training datasets for supervised machine learning tasks
+- [Pixel Annotation Tool](https://github.com/abreheret/PixelAnnotationTool) - Uses the algorithm watershed marked of OpenCV to annotate images in directories
+- [LabelD](https://github.com/sweppner/labeld) - Simple image annotation tool to streamlining the overall process
+- [Comma Coloring](https://github.com/commaai/commacoloring) - Adult coloring book for image segmentation
+- [LabelImg](https://github.com/tzutalin/labelImg) - Graphical image annotation tool and label object bounding boxes in images
+- [LCs Finder](https://github.com/lc-soft/LC-Finder) - Image annotation and object detection tool written in C
+- [js-segment-annotator](https://github.com/kyamagu/js-segment-annotator) - Javascript image annotation tool based on image segmentation
+- [Cytomine](https://github.com/cytomine) - Analysis of multi-gigapixel images
+- [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation)
+- [SimpleAnnotate](https://github.com/joelb92/SimpleAnnotate) - Open source video and image annotation software for, currently only for OSX
+- [Sloth](https://github.com/cvhciKIT/sloth) - Labeling image and video data for computer vision research
+- [Fast Annotation Tool](https://github.com/christopher5106/FastAnnotationTool) - Online platform for collaborative image annotation
+- [Anno-Mage](https://github.com/virajmavani/semi-auto-image-annotation-tool) - Helps you in annotating images by suggesting you annotations for 80 object classes
+
+#### Closed Source
+
+- [Labelbox](https://labelbox.com/) - Platform for data labeling, data management, and data science. Its features include image annotation, bounding boxes, text classification, and more
+- [Supervise.ly](https://supervise.ly/) - Image annotation and data management tool that you can use create image and video datasets
+- [Prodigy](https://prodi.gy/) - Various machine learning models such as image classification, entity recognition and intent detection
+- [RectLabel](https://github.com/ryouchinsa/Rectlabel-support) - Label images for bounding box object detection and segmentation
+- [Lionbridge AI](https://lionbridge.ai/services/image-annotation/) - Quickly annotate thousands of images and videos with relevant tags
+- [TrainingData.io](https://www.trainingdata.io/) - Medical image annotation tool for data labeling. Spports DICOM image format for radiology AI
+- [Spare5](https://app.spare5.com/fives) - Crowdsourcing service for tasks such as data and image annotation, language assessment, and more
+- [Hive](https://thehive.ai/) - Text and image annotation service that helps you create training datasets
+- [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
+- [Dataturks](https://dataturks.com/) - Image segmentation, named entity recognition (NER) tagging in documents, and POS tagging
+- [Playment](https://playment.io/) - Services offered include bounding boxes, points and lines, polygons, semantic segmentation, and more
+- [Cogito Tech](https://www.cogitotech.com/) - Image annotation, content moderation, sentiment analysis, chatbot training
+- [OCLAVI](https://oclavi.com/) - Annotate Bounding Box, Polygon, Circle, Point and Cuboidal annotations with precision
+- [Humans in the Loop](https://humansintheloop.org/) -  Use cases include face recognition, autonomous vehicles, and figure detection
+- [WorkAround](https://workaround.online/) - Host and annotate data, manage projects, and build datasets alongside top companies
+- [TaQadam](https://taqadam.io/) - On-demand annotation with agents-in-the-loop
+
+### Audio
+
+- [Audio Annotator](https://github.com/CrowdCurio/audio-annotator) - JavaScript interface for annotating and labeling audio files
+- [Dynitag](https://github.com/dynilib/dynitag) - Web-based collaborative audio annotator tool
+
+#### Closed Source
+
+- [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
+
+### Text
+
+- [brat](https://github.com/nlplab/brat) - For all your textual annotation needs
+ - [doccano](https://github.com/chakki-works/doccano) - Open source text annotation tool for machine learning practitioner.
+ - [Inception](https://github.com/inception-project/inception) - A semantic annotation platform offering intelligent annotation assistance
+ - [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks
+ - [YEDDA](https://github.com/jiesutd/YEDDA) - For annotating chunk/entity/event on text, symbol and even emoji
+ - [TALEN](https://github.com/CogComp/talen) - Web-based tool for annotating word sequences
+ - [WebAnno](https://github.com/webanno/webanno) - Web-based annotation tool for a wide range of linguistic annotations
+ - [MAE](https://github.com/keighrim/mae-annotation) - Lightweight, general-purpose natural language annotation tool
+ - [Anafora](https://github.com/weitechen/anafora) - Web-based raw text annotation tool
+
+#### Closed Source
+
+- [Hive](https://thehive.ai/) - Text and image annotation service that helps you create training datasets
+- [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
+
+## Libaries
+
+### Audio
+
+- [Muda](https://github.com/bmcfee/muda) - Python library for augmenting annotated audio data
