@@ -1,4 +1,4 @@
-# Awesome Dataset Tools [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Dataset Tools
 
 > A curated list of awesome dataset tools
 
