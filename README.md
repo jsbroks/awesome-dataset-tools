@@ -28,6 +28,7 @@
 - [VGG Image Annotator](https://gitlab.com/vgg/via) - Standalone image annotator application packaged as a single HTML file
 - [SMART](https://github.com/RTIInternational/SMART) - Efficiently build labeled training datasets for supervised machine learning tasks
 - [Pixel Annotation Tool](https://github.com/abreheret/PixelAnnotationTool) - Uses the algorithm watershed marked of OpenCV to annotate images in directories
+- [Pixie](https://github.com/buni-rock/Pixie) - GUI annotation tool which provides the bounding box, polygon, and semantic segmentation
 - [Turktool](https://github.com/jaxony/turktool) - Modern React app for scalable bounding box annotation of images
 - [LabelD](https://github.com/sweppner/labeld) - Simple image annotation tool to streamlining the overall process
 - [Comma Coloring](https://github.com/commaai/commacoloring) - Adult coloring book for image segmentation
@@ -45,6 +46,8 @@
 - [Alturos.ImageAnnotation](https://github.com/AlturosDestinations/Alturos.ImageAnnotation) - Collaborative tool for labeling image data for yolo
 - [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) - GUI for marking bounded boxes of objects in images
 - [imglab](https://github.com/NaturalIntelligence/imglab) - peedup and simplify image labeling/ annotation process with multiple supported formats
+- [OpenLabeler](https://github.com/kinhong/OpenLabeler) - Open source desktop application for annotating objects
+- [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI with integrated SOTA detector and tracker
 
 #### Closed Source
 
