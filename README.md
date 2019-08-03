@@ -25,6 +25,7 @@
 - [VGG Image Annotator](https://gitlab.com/vgg/via) - Standalone image annotator application packaged as a single HTML file
 - [SMART](https://github.com/RTIInternational/SMART) - Efficiently build labeled training datasets for supervised machine learning tasks
 - [Pixel Annotation Tool](https://github.com/abreheret/PixelAnnotationTool) - Uses the algorithm watershed marked of OpenCV to annotate images in directories
+- [Turktool](https://github.com/jaxony/turktool) - Modern React app for scalable bounding box annotation of images
 - [LabelD](https://github.com/sweppner/labeld) - Simple image annotation tool to streamlining the overall process
 - [Comma Coloring](https://github.com/commaai/commacoloring) - Adult coloring book for image segmentation
 - [LabelImg](https://github.com/tzutalin/labelImg) - Graphical image annotation tool and label object bounding boxes in images
@@ -36,6 +37,11 @@
 - [Sloth](https://github.com/cvhciKIT/sloth) - Labeling image and video data for computer vision research
 - [Fast Annotation Tool](https://github.com/christopher5106/FastAnnotationTool) - Online platform for collaborative image annotation
 - [Anno-Mage](https://github.com/virajmavani/semi-auto-image-annotation-tool) - Helps you in annotating images by suggesting you annotations for 80 object classes
+- [MedTagger](https://github.com/medtagger/MedTagger) - Collaborative framework for annotating medical datasets using crowdsourcing
+- [OpenLabeling](https://github.com/Cartucho/OpenLabeling) - Labeling in multiple annotation formats
+- [Alturos.ImageAnnotation](https://github.com/AlturosDestinations/Alturos.ImageAnnotation) - Collaborative tool for labeling image data for yolo
+- [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) - GUI for marking bounded boxes of objects in images
+- [imglab](https://github.com/NaturalIntelligence/imglab) - peedup and simplify image labeling/ annotation process with multiple supported formats
 
 #### Closed Source
 
@@ -60,6 +66,7 @@
 
 - [Audio Annotator](https://github.com/CrowdCurio/audio-annotator) - JavaScript interface for annotating and labeling audio files
 - [Dynitag](https://github.com/dynilib/dynitag) - Web-based collaborative audio annotator tool
+- [EchoML](https://github.com/ritazh/EchoML) - play, visualize, and annotate your audio files for machine learning
 
 #### Closed Source
 
@@ -68,14 +75,16 @@
 ### Text
 
 - [brat](https://github.com/nlplab/brat) - For all your textual annotation needs
- - [doccano](https://github.com/chakki-works/doccano) - Open source text annotation tool for machine learning practitioner.
- - [Inception](https://github.com/inception-project/inception) - A semantic annotation platform offering intelligent annotation assistance
- - [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks
- - [YEDDA](https://github.com/jiesutd/YEDDA) - For annotating chunk/entity/event on text, symbol and even emoji
- - [TALEN](https://github.com/CogComp/talen) - Web-based tool for annotating word sequences
- - [WebAnno](https://github.com/webanno/webanno) - Web-based annotation tool for a wide range of linguistic annotations
- - [MAE](https://github.com/keighrim/mae-annotation) - Lightweight, general-purpose natural language annotation tool
- - [Anafora](https://github.com/weitechen/anafora) - Web-based raw text annotation tool
+- [doccano](https://github.com/chakki-works/doccano) - Open source text annotation tool for machine learning practitioner.
+- [Inception](https://github.com/inception-project/inception) - A semantic annotation platform offering intelligent annotation assistance
+- [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks
+- [YEDDA](https://github.com/jiesutd/YEDDA) - For annotating chunk/entity/event on text, symbol and even emoji
+- [TALEN](https://github.com/CogComp/talen) - Web-based tool for annotating word sequences
+- [WebAnno](https://github.com/webanno/webanno) - Web-based annotation tool for a wide range of linguistic annotations
+- [MAE](https://github.com/keighrim/mae-annotation) - Lightweight, general-purpose natural language annotation tool
+- [Anafora](https://github.com/weitechen/anafora) - Web-based raw text annotation tool
+- [TagEditor](https://github.com/d5555/TagEditor) - Label dependencies, parts of speech, Named entities, and text categories
+- [ML-Annotate](https://github.com/planbrothers/ml-annotate) - Supports binary, multi-label and multi-class labeling of text
 
 #### Closed Source
 
