@@ -4,12 +4,14 @@
 - [Labeling Tools](#labeling-tools)
   - [Images](#images)
   - [Audio](#audio)
+  - [Time Series](#time-series)
   - [Text](#text)
 - [Libaries](#libaries)
 
 ## Labeling Tools
 
 ### Images
+
 - [CVAT](https://github.com/opencv/cvat) - Online, interactive video and image annotation tool for computer vision
 - [COCO Annotator]() - Web-based image segmentation tool for object detection, localization and keypoints
 - [Scalabel](https://github.com/ucbdrive/scalabel) - Versatile and scalable tool that supports various kinds of annotations
@@ -71,6 +73,14 @@
 #### Closed Source
 
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
+
+
+### Time Series
+
+- [Curve](https://github.com/baidu/Curve) - An integrated experimental platform for time series data anomaly detection
+- [TagAnomaly](https://github.com/Microsoft/TagAnomaly) - Anomaly detection analysis and labeling tool, specifically for multiple time series
+- [time-series-annotator](https://github.com/CrowdCurio/time-series-annotator) - Implements classification tasks for time series.
+- [WDK](https://github.com/avenix/WDK) - Tools to facilitate the development of activity recognition applications with wearable devices
 
 ### Text
 
