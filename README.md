@@ -14,7 +14,7 @@
 ### Images
 
 - [CVAT](https://github.com/opencv/cvat) - Online, interactive video and image annotation tool for computer vision
-- [COCO Annotator]() - Web-based image segmentation tool for object detection, localization and keypoints
+- [COCO Annotator](https://github.com/jsbroks/coco-annotator) - Web-based image segmentation tool for object detection, localization and keypoints
 - [Scalabel](https://github.com/ucbdrive/scalabel) - Versatile and scalable tool that supports various kinds of annotations
 - [LOST](https://github.com/l3p-cv/lost) -  Design your own smart Image Annotation process in a web-based environment
 - [Boobs](https://github.com/drainingsun/boobs) - Fast and efficient BBox annotation for your images in YOLO, VOC/COCO formats
