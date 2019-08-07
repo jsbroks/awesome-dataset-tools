@@ -67,6 +67,7 @@
 - [Humans in the Loop](https://humansintheloop.org/) -  Use cases include face recognition, autonomous vehicles, and figure detection
 - [WorkAround](https://workaround.online/) - Host and annotate data, manage projects, and build datasets alongside top companies
 - [TaQadam](https://taqadam.io/) - On-demand annotation with agents-in-the-loop
+- [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
 
 ### Audio
 
