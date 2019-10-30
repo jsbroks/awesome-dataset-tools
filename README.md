@@ -105,6 +105,7 @@
 
 - [Hive](https://thehive.ai/) - Text and image annotation service that helps you create training datasets
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
+- [LightTag](https://lighttag.io) Text Annotation Tool for Teams. 
 
 ## Libaries
 
