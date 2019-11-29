@@ -16,6 +16,7 @@
 - [CVAT](https://github.com/opencv/cvat) - Online, interactive video and image annotation tool for computer vision
 - [COCO Annotator](https://github.com/jsbroks/coco-annotator) - Web-based image segmentation tool for object detection, localization and keypoints
 - [Scalabel](https://github.com/ucbdrive/scalabel) - Versatile and scalable tool that supports various kinds of annotations
+- [EVA](https://github.com/Ericsson/eva) - EVA is a web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities
 - [LOST](https://github.com/l3p-cv/lost) -  Design your own smart Image Annotation process in a web-based environment
 - [Boobs](https://github.com/drainingsun/boobs) - Fast and efficient BBox annotation for your images in YOLO, VOC/COCO formats
 - [MuViLab](https://github.com/ale152/muvilab) - Tool to help you labelling videos for computer vision
