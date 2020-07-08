@@ -70,6 +70,7 @@
 - [TaQadam](https://taqadam.io/) - On-demand annotation with agents-in-the-loop
 - [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
 - [IBM Cloud Annotations](https://cloud.annotations.ai/) - Simple and collaborative image annotation tool for teams and individuals inside ibm cloud environment.
+- [MedSeg](https://medseg.ai/) - Free online medical annotation (segmentation) with AI models.
 
 ### Audio
 
