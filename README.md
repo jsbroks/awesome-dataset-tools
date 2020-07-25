@@ -51,7 +51,7 @@
 - [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI with integrated SOTA detector and tracker
 
 #### Closed Source
-
+- [DataTorch](https://datatorch.io/) - Platform for creating and shareing datasets.
 - [Labelbox](https://labelbox.com/) - Platform for data labeling, data management, and data science. Its features include image annotation, bounding boxes, text classification, and more
 - [Supervise.ly](https://supervise.ly/) - Image annotation and data management tool that you can use create image and video datasets
 - [Prodigy](https://prodi.gy/) - Various machine learning models such as image classification, entity recognition and intent detection
