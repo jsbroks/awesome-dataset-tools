@@ -52,7 +52,6 @@
 
 #### Closed Source
 
-- [TrainingSet.AI](https://dashboard.trainingset.ai/) - Platform for image annotation to label object point, lines, bounding boxes,polygon and instance segmentation and cuboid in images and lidar scenes
 - [DataTorch](https://datatorch.io/) - Platform for creating and shareing datasets.
 - [Labelbox](https://labelbox.com/) - Platform for data labeling, data management, and data science. Its features include image annotation, bounding boxes, text classification, and more
 - [Supervise.ly](https://supervise.ly/) - Image annotation and data management tool that you can use create image and video datasets
@@ -72,6 +71,7 @@
 - [TaQadam](https://taqadam.io/) - On-demand annotation with agents-in-the-loop
 - [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
 - [IBM Cloud Annotations](https://cloud.annotations.ai/) - Simple and collaborative image annotation tool for teams and individuals inside ibm cloud environment.
+- [TrainingSet.AI](https://trainingset.ai/) - Platform to solve the data labelling step in the AI Development for images, video and point cloud data (automatic labeling, ground truth, annotation tools, web dataset creation, s3, teams and statistics tools)
 
 ### Audio
 
