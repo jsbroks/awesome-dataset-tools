@@ -7,7 +7,7 @@
   - [Audio](#audio)
   - [Time Series](#time-series)
   - [Text](#text)
-- [Libaries](#libaries)
+- [Libraries](#libraries)
 
 ## Labeling Tools
 
@@ -70,6 +70,7 @@
 - [TaQadam](https://taqadam.io/) - On-demand annotation with agents-in-the-loop
 - [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
 - [IBM Cloud Annotations](https://cloud.annotations.ai/) - Simple and collaborative image annotation tool for teams and individuals inside ibm cloud environment.
+- [MVTec Deep Learning Tool](https://www.mvtec.com/products/deep-learning-tool/) - Provides labeling functionalities for [HALCON](https://www.mvtec.com/products/halcon/)'s deep-learning-based object detection and classification.
 
 ### Audio
 
@@ -109,7 +110,7 @@
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
 - [LightTag](https://lighttag.io) Text Annotation Tool for Teams. 
 
-## Libaries
+## Libraries
 
 ### Audio
 
