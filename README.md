@@ -7,7 +7,7 @@
   - [Audio](#audio)
   - [Time Series](#time-series)
   - [Text](#text)
-- [Libaries](#libaries)
+- [Libraries](#libraries)
 
 ## Labeling Tools
 
@@ -51,7 +51,7 @@
 - [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI with integrated SOTA detector and tracker
 
 #### Closed Source
-
+- [DataTorch](https://datatorch.io/) - Platform for creating and shareing datasets.
 - [Labelbox](https://labelbox.com/) - Platform for data labeling, data management, and data science. Its features include image annotation, bounding boxes, text classification, and more
 - [Supervise.ly](https://supervise.ly/) - Image annotation and data management tool that you can use create image and video datasets
 - [Prodigy](https://prodi.gy/) - Various machine learning models such as image classification, entity recognition and intent detection
@@ -71,6 +71,7 @@
 - [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
 - [IBM Cloud Annotations](https://cloud.annotations.ai/) - Simple and collaborative image annotation tool for teams and individuals inside ibm cloud environment.
 - [MedSeg](https://medseg.ai/) - Free online medical annotation (segmentation) with AI models.
+- [MVTec Deep Learning Tool](https://www.mvtec.com/products/deep-learning-tool/) - Provides labeling functionalities for [HALCON](https://www.mvtec.com/products/halcon/)'s deep-learning-based object detection and classification.
 
 ### Audio
 
@@ -110,7 +111,7 @@
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
 - [LightTag](https://lighttag.io) Text Annotation Tool for Teams. 
 
-## Libaries
+## Libraries
 
 ### Audio
 
