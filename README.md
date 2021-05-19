@@ -62,6 +62,7 @@
 - [Spare5](https://app.spare5.com/fives) - Crowdsourcing service for tasks such as data and image annotation, language assessment, and more
 - [Hive](https://thehive.ai/) - Text and image annotation service that helps you create training datasets
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
+- [Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/) - annotate data using Mechanical Turk, vendor workforces, or your own private workteams. Use Ground Truth's built-in UIs (video, point cloud, image, text, document processing) or bring your own custom UI
 - [Dataturks](https://dataturks.com/) - Image segmentation, named entity recognition (NER) tagging in documents, and POS tagging
 - [Playment](https://playment.io/) - Services offered include bounding boxes, points and lines, polygons, semantic segmentation, and more
 - [Cogito Tech](https://www.cogitotech.com/) - Image annotation, content moderation, sentiment analysis, chatbot training
