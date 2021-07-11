@@ -63,6 +63,7 @@
 - [Hive](https://thehive.ai/) - Text and image annotation service that helps you create training datasets
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
 - [Dataturks](https://dataturks.com/) - Image segmentation, named entity recognition (NER) tagging in documents, and POS tagging
+- [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling
 - [Playment](https://playment.io/) - Services offered include bounding boxes, points and lines, polygons, semantic segmentation, and more
 - [Cogito Tech](https://www.cogitotech.com/) - Image annotation, content moderation, sentiment analysis, chatbot training
 - [OCLAVI](https://oclavi.com/) - Annotate Bounding Box, Polygon, Circle, Point and Cuboidal annotations with precision
