@@ -120,4 +120,4 @@
 
 ### Text
 
-- [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library designed by Capital One to make data analysis, monitoring, and data identification easy
+- [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library to facilitate data analysis, monitoring, and data identification
