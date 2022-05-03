@@ -117,3 +117,7 @@
 ### Audio
 
 - [Muda](https://github.com/bmcfee/muda) - Python library for augmenting annotated audio data
+
+### Text
+
+- [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library designed by Capital One to make data analysis, monitoring and sensitive data detection easy
