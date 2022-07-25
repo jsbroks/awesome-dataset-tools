@@ -53,6 +53,7 @@
 - [DataGym.ai](https://github.com/datagym-ai/datagym-core) - Open source annotation and labeling tool for image and video assets
 
 #### Closed Source
+
 - [DataTorch](https://datatorch.io/) - Platform for creating and shareing datasets.
 - [Labelbox](https://labelbox.com/) - Platform for data labeling, data management, and data science. Its features include image annotation, bounding boxes, text classification, and more
 - [Supervise.ly](https://supervise.ly/) - Image annotation and data management tool that you can use create image and video datasets
@@ -73,6 +74,7 @@
 - [TaQadam](https://taqadam.io/) - On-demand annotation with agents-in-the-loop
 - [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
 - [IBM Cloud Annotations](https://cloud.annotations.ai/) - Simple and collaborative image annotation tool for teams and individuals inside ibm cloud environment.
+- [TrainingSet.AI](https://trainingset.ai/) - Platform to solve the data labelling step in the AI Development for images, video and point cloud data (automatic labeling, ground truth, annotation tools, web dataset creation, s3, teams and statistics tools)
 - [MedSeg](https://medseg.ai/) - Free online medical annotation (segmentation) with AI models.
 - [MVTec Deep Learning Tool](https://www.mvtec.com/products/deep-learning-tool/) - Provides labeling functionalities for [HALCON](https://www.mvtec.com/products/halcon/)'s deep-learning-based object detection and classification.
 - [Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/) - annotate data using MTurk, vendor workforces, or your own private workteams. Use Ground Truth's built-in UIs (video, point cloud, image, text, document processing) or bring your own custom UI
