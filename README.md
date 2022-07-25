@@ -7,7 +7,7 @@
   - [Audio](#audio)
   - [Time Series](#time-series)
   - [Text](#text)
-- [Libaries](#libaries)
+- [Libraries](#libraries)
 
 ## Labeling Tools
 
@@ -15,7 +15,8 @@
 
 - [CVAT](https://github.com/opencv/cvat) - Online, interactive video and image annotation tool for computer vision
 - [COCO Annotator](https://github.com/jsbroks/coco-annotator) - Web-based image segmentation tool for object detection, localization and keypoints
-- [Scalabel](https://github.com/ucbdrive/scalabel) - Versatile and scalable tool that supports various kinds of annotations
+- [VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end object detection models from images and videos.
+- [Scalabel](https://github.com/scalabel/scalabel) - Versatile and scalable tool that supports various kinds of annotations
 - [EVA](https://github.com/Ericsson/eva) - EVA is a web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities
 - [LOST](https://github.com/l3p-cv/lost) -  Design your own smart Image Annotation process in a web-based environment
 - [Boobs](https://github.com/drainingsun/boobs) - Fast and efficient BBox annotation for your images in YOLO, VOC/COCO formats
@@ -49,6 +50,7 @@
 - [imglab](https://github.com/NaturalIntelligence/imglab) - peedup and simplify image labeling/ annotation process with multiple supported formats
 - [OpenLabeler](https://github.com/kinhong/OpenLabeler) - Open source desktop application for annotating objects
 - [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI with integrated SOTA detector and tracker
+- [DataGym.ai](https://github.com/datagym-ai/datagym-core) - Open source annotation and labeling tool for image and video assets
 
 #### Closed Source
 
@@ -63,6 +65,7 @@
 - [Hive](https://thehive.ai/) - Text and image annotation service that helps you create training datasets
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
 - [Dataturks](https://dataturks.com/) - Image segmentation, named entity recognition (NER) tagging in documents, and POS tagging
+- [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling
 - [Playment](https://playment.io/) - Services offered include bounding boxes, points and lines, polygons, semantic segmentation, and more
 - [Cogito Tech](https://www.cogitotech.com/) - Image annotation, content moderation, sentiment analysis, chatbot training
 - [OCLAVI](https://oclavi.com/) - Annotate Bounding Box, Polygon, Circle, Point and Cuboidal annotations with precision
@@ -72,6 +75,9 @@
 - [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
 - [IBM Cloud Annotations](https://cloud.annotations.ai/) - Simple and collaborative image annotation tool for teams and individuals inside ibm cloud environment.
 - [TrainingSet.AI](https://trainingset.ai/) - Platform to solve the data labelling step in the AI Development for images, video and point cloud data (automatic labeling, ground truth, annotation tools, web dataset creation, s3, teams and statistics tools)
+- [MedSeg](https://medseg.ai/) - Free online medical annotation (segmentation) with AI models.
+- [MVTec Deep Learning Tool](https://www.mvtec.com/products/deep-learning-tool/) - Provides labeling functionalities for [HALCON](https://www.mvtec.com/products/halcon/)'s deep-learning-based object detection and classification.
+- [Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/) - annotate data using MTurk, vendor workforces, or your own private workteams. Use Ground Truth's built-in UIs (video, point cloud, image, text, document processing) or bring your own custom UI
 
 ### Audio
 
@@ -111,7 +117,7 @@
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
 - [LightTag](https://lighttag.io) Text Annotation Tool for Teams. 
 
-## Libaries
+## Libraries
 
 ### Audio
 
