@@ -13,12 +13,13 @@
 
 ### Images
 
+- [LabeFlow](https://github.com/labelflow/labelflow) - Open image annotation tool for machine learning projects
 - [CVAT](https://github.com/opencv/cvat) - Online, interactive video and image annotation tool for computer vision
 - [COCO Annotator](https://github.com/jsbroks/coco-annotator) - Web-based image segmentation tool for object detection, localization and keypoints
 - [VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end object detection models from images and videos.
 - [Scalabel](https://github.com/scalabel/scalabel) - Versatile and scalable tool that supports various kinds of annotations
 - [EVA](https://github.com/Ericsson/eva) - EVA is a web-based tool for efficient annotation of videos and image sequences and has an additional tracking capabilities
-- [LOST](https://github.com/l3p-cv/lost) -  Design your own smart Image Annotation process in a web-based environment
+- [LOST](https://github.com/l3p-cv/lost) - Design your own smart Image Annotation process in a web-based environment
 - [Boobs](https://github.com/drainingsun/boobs) - Fast and efficient BBox annotation for your images in YOLO, VOC/COCO formats
 - [MuViLab](https://github.com/ale152/muvilab) - Tool to help you labelling videos for computer vision
 - [Turkey](https://github.com/yanfengliu/turkey) - Web UI on Amazon Mechanical Turk to crowd-source image segmentation
@@ -69,7 +70,7 @@
 - [Playment](https://playment.io/) - Services offered include bounding boxes, points and lines, polygons, semantic segmentation, and more
 - [Cogito Tech](https://www.cogitotech.com/) - Image annotation, content moderation, sentiment analysis, chatbot training
 - [OCLAVI](https://oclavi.com/) - Annotate Bounding Box, Polygon, Circle, Point and Cuboidal annotations with precision
-- [Humans in the Loop](https://humansintheloop.org/) -  Use cases include face recognition, autonomous vehicles, and figure detection
+- [Humans in the Loop](https://humansintheloop.org/) - Use cases include face recognition, autonomous vehicles, and figure detection
 - [WorkAround](https://workaround.online/) - Host and annotate data, manage projects, and build datasets alongside top companies
 - [TaQadam](https://taqadam.io/) - On-demand annotation with agents-in-the-loop
 - [Zillin](https://zillin.io) - Image annotation service for classification, object detection and segmentation with API access and georeferenced images support.
@@ -88,7 +89,6 @@
 #### Closed Source
 
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
-
 
 ### Time Series
 
@@ -115,7 +115,7 @@
 
 - [Hive](https://thehive.ai/) - Text and image annotation service that helps you create training datasets
 - [Figure Eight](https://www.figure-eight.com/) - Supports audio , computer vision, natural language processing, and other data tasks
-- [LightTag](https://lighttag.io) Text Annotation Tool for Teams. 
+- [LightTag](https://lighttag.io) Text Annotation Tool for Teams.
 
 ## Libraries
 
