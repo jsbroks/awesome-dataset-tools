@@ -122,3 +122,7 @@
 ### Audio
 
 - [Muda](https://github.com/bmcfee/muda) - Python library for augmenting annotated audio data
+
+### Text
+
+- [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library to facilitate data analysis, monitoring, and data identification
