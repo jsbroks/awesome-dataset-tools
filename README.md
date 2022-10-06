@@ -79,6 +79,7 @@
 - [MedSeg](https://medseg.ai/) - Free online medical annotation (segmentation) with AI models.
 - [MVTec Deep Learning Tool](https://www.mvtec.com/products/deep-learning-tool/) - Provides labeling functionalities for [HALCON](https://www.mvtec.com/products/halcon/)'s deep-learning-based object detection and classification.
 - [Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/) - annotate data using MTurk, vendor workforces, or your own private workteams. Use Ground Truth's built-in UIs (video, point cloud, image, text, document processing) or bring your own custom UI
+- [Annotation Lab Visual](https://www.johnsnowlabs.com/annotation-lab/) - End-to-End No Code platform for text annotation on image and PDF documents. Supports preannotation with Visual NLP models and Visual NER model tuning. 
 
 ### Audio
 
@@ -110,6 +111,7 @@
 - [Anafora](https://github.com/weitechen/anafora) - Web-based raw text annotation tool
 - [TagEditor](https://github.com/d5555/TagEditor) - Label dependencies, parts of speech, Named entities, and text categories
 - [ML-Annotate](https://github.com/planbrothers/ml-annotate) - Supports binary, multi-label and multi-class labeling of text
+- [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) - Free End-to-End No Code platform for both automatic text preannotation via Spark NLP models and manual annotation.
 
 #### Closed Source
 
