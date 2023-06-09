@@ -80,6 +80,10 @@
 - [MVTec Deep Learning Tool](https://www.mvtec.com/products/deep-learning-tool/) - Provides labeling functionalities for [HALCON](https://www.mvtec.com/products/halcon/)'s deep-learning-based object detection and classification.
 - [Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/) - annotate data using MTurk, vendor workforces, or your own private workteams. Use Ground Truth's built-in UIs (video, point cloud, image, text, document processing) or bring your own custom UI
 
+### Automated Labelling via Distillation
+
+- [Autodistill: Images to inference with no labeling (use foundation models to train supervised models)](https://github.com/autodistill/autodistill)
+
 ### Audio
 
 - [Audio Annotator](https://github.com/CrowdCurio/audio-annotator) - JavaScript interface for annotating and labeling audio files
