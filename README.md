@@ -110,6 +110,7 @@
 - [Anafora](https://github.com/weitechen/anafora) - Web-based raw text annotation tool
 - [TagEditor](https://github.com/d5555/TagEditor) - Label dependencies, parts of speech, Named entities, and text categories
 - [ML-Annotate](https://github.com/planbrothers/ml-annotate) - Supports binary, multi-label and multi-class labeling of text
+- [Potato](https://github.com/davidjurgens/potato) - Portable text annotation tool with 20+ annotation types, AI-assisted labeling, and crowdsourcing support
 
 #### Closed Source
 
