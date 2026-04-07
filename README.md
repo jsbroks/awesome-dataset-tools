@@ -52,6 +52,7 @@
 - [OpenLabeler](https://github.com/kinhong/OpenLabeler) - Open source desktop application for annotating objects
 - [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) - A multi-purpose Video Labeling GUI with integrated SOTA detector and tracker
 - [DataGym.ai](https://github.com/datagym-ai/datagym-core) - Open source annotation and labeling tool for image and video assets
+- [LightlyStudio](https://github.com/lightly-ai/lightly-studio) - Open source tool to curate, annotate, and manage vision datasets (images and videos). Supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
 
 #### Closed Source
 
