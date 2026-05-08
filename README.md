@@ -77,6 +77,7 @@
 - [IBM Cloud Annotations](https://cloud.annotations.ai/) - Simple and collaborative image annotation tool for teams and individuals inside ibm cloud environment.
 - [TrainingSet.AI](https://trainingset.ai/) - Platform to solve the data labelling step in the AI Development for images, video and point cloud data (automatic labeling, ground truth, annotation tools, web dataset creation, s3, teams and statistics tools)
 - [MedSeg](https://medseg.ai/) - Free online medical annotation (segmentation) with AI models.
+- [MoniSa Enterprise](https://www.monisaenterprise.com) - Multilingual AI training data, annotation, and language services across 300+ languages. ISO 9001/27001/17100 certified.
 - [MVTec Deep Learning Tool](https://www.mvtec.com/products/deep-learning-tool/) - Provides labeling functionalities for [HALCON](https://www.mvtec.com/products/halcon/)'s deep-learning-based object detection and classification.
 - [Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/) - annotate data using MTurk, vendor workforces, or your own private workteams. Use Ground Truth's built-in UIs (video, point cloud, image, text, document processing) or bring your own custom UI
 
