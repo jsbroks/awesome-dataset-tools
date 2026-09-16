@@ -126,3 +126,4 @@
 ### Text
 
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library to facilitate data analysis, monitoring, and data identification
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
