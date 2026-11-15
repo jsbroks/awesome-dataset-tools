@@ -126,3 +126,4 @@
 ### Text
 
 - [DataProfiler](https://github.com/capitalone/DataProfiler) - A Python library to facilitate data analysis, monitoring, and data identification
+- [No Stairs Please](https://nostairsplease.com/venues) - Structured public dataset and directory of 25,000+ live music venues across the US, DC, and British Columbia.
